@@ -1,0 +1,2 @@
+# Menus and Panels in Java Swing
+ Design and implement a Java Swing Application that includes JPanels and a JMenu. The application  should provide a structured user interface with multiple sections and interactive menu options.  Consider how different components interact within the application, and ensure that users can navigate  through different views efficiently. The design should incorporate well-organized panels and menu  functionalities. 
