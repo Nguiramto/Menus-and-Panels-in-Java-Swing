@@ -1,3 +1,5 @@
+//Menus and Panels code (Swing App)//
+
 package org.example;
 
 import javax.swing.*;
