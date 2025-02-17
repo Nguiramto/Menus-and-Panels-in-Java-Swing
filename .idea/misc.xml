@@ -6,6 +6,11 @@
       <list>
         <option value="$PROJECT_DIR$/AppManagement/pom.xml" />
         <option value="$PROJECT_DIR$/ImageManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/HomePanelManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/UserFormPanelManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/LoginPanelManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/AboutPanelManagement/pom.xml" />
+        <option value="$PROJECT_DIR$/SecretPanelManagement/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
