@@ -6,6 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AboutPanelManagement" />
+        <module name="HomePanelManagement" />
+        <module name="SecretPanelManagement" />
+        <module name="UserFormPanelManagement" />
+        <module name="LoginPanelManagement" />
         <module name="AppManagement" />
       </profile>
     </annotationProcessing>
